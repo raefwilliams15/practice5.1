@@ -1,9 +1,5 @@
 # Practice 5.1: California Housing Price Prediction
 
-Predicts median house value from California census block-group features
-using scikit-learn (linear regression vs. random forest).
+Predicts median house value from California census data using scikit-learn.
 
-## Run
-    pip install -r requirements.txt
-    python make_data.py   # creates data/housing.csv
-    python main.py
+Run: pip install -r requirements.txt, then python make_data.py, then python main.py
